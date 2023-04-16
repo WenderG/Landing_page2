@@ -1,0 +1,18 @@
+.main {
+    height: 100vh;
+}
+
+.botao-lampada {
+    /* width: 100%;
+    padding: 2rem;
+    text-align: left; */
+}
+
+.lampada {
+    padding: 2px;
+}
+
+.rodape {
+    color: white;
+    text-align: center;
+}
